@@ -156,7 +156,7 @@ namespace CshConsoleTest
 
 			//	Execute the div command in the command list.
 			Assert.IsTrue(CommandsApi.CommandExec(ref pCommands, CMD_LINE_DIV));
-			return;
+			 return;
 		}
 	};
 }
